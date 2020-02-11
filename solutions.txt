@@ -4,3 +4,5 @@ Question :1
 Solution : git status 
 ls -a 
 2. Assuming that you are currently within a Git repository, write the command (or commands) that will cause the file 'hello-world.txt' to be committed.
+Solution : git add hello-world.txt / git add .
+git commit / git commit -m "Commit message"
